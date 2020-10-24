@@ -15,7 +15,7 @@
     "react-native": "https://github.com/expo/react-native/archive/sdk-39.0.3.tar.gz",
     "react-native-web": "~0.13.12",
     "unitx": "^0.0.433",
-    "unitx-ui": "^0.0.315"
+    "unitx-ui": "^0.0.314"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",
