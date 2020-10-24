@@ -40,9 +40,6 @@ export const Profile = (props: ProfileProps) =>{
       <Grid 
         col
         style={{ size: 12, }}
-        xs={{
-          visible: false
-        }}
         md={{
           size: 8
         }}
